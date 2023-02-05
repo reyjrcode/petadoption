@@ -1,0 +1,14 @@
+const String loginpicture ="assets/login.png";
+const String google ="assets/google.png";
+const String facebook ="assets/facebook.png";
+const String twiter ="assets/twiter.png";
+const String signups ="assets/signup.png";
+const String backarrow ="assets/back.png";
+const String avatar ="assets/avatar.png";
+const String notification ="assets/notif.png";
+const String model ="assets/model1.png";
+const String casualvneck ="assets/items/vneck.png";
+const String casualtshirt ="assets/items/casualtshirt.png";
+const String mididress = "assets/items/mididress.png";
+const String tunicdress ="assets/items/tunicdress.png";
+const String editprofile ="assets/user.png";
